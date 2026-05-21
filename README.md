@@ -5,6 +5,8 @@ A complete, production-ready web application for managing rental shops in a mark
 Built with PHP, MySQL, HTML5, CSS3, and vanilla JavaScript.
 
 ---
+## 🌐 Live Demo
+http://shopledgerpro.infinityfree.me/rental-shop/
 
 ## Features
 
