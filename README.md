@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ShopLedger Pro — Rental Shop Management System
 
 A complete, production-ready web application for managing rental shops in a market.
@@ -100,3 +101,7 @@ rental-shop/
 - All user inputs sanitized with `htmlspecialchars()`
 - PDO prepared statements throughout (SQL injection safe)
 - Session-based authentication — all pages check `requireLogin()`
+=======
+# rental-shop-management
+rental shop management website
+>>>>>>> 0779f1448144cbe7d78ee8ffa7aa2d41ef12ca90
